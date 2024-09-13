@@ -36,7 +36,7 @@ Every contribution, no matter the size, makes a meaningful difference. If you fi
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/niteshpurohit)
 
 ### 📊 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats-c4nqwrocg-nitesh-purohits-projects.vercel.app/api?username=niteshpurohit&show_icons=true&theme=radical)
+![Nitesh's GitHub Stats](https://github-readme-stats-c4nqwrocg-nitesh-purohits-projects.vercel.app/api?username=niteshpurohit&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats-c4nqwrocg-nitesh-purohits-projects.vercel.app/api/top-langs/?username=niteshpurohit&layout=compact&theme=radical)
 
 
