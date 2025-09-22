@@ -20,10 +20,6 @@ Open-source software has played a pivotal role in my growth as a developer, and 
 ### 🎯 My Mission
 I’m on a mission to build open-source software that empowers developers and teams to create faster, more efficient, and more reliable applications. My projects are designed to address real-world problems, and I’m constantly exploring new ways to innovate and improve.
 
-### 🌱 What I'm Currently Working On (Presently private repositories)
-- **[graphql](#)**: This project aims to simplify the integration of GraphQL APIs into Ruby on Rails applications. It provides a set of tools and utilities to streamline the development process and improve performance. Soon to be released as an open-source gem!
-- **[rich-text-editor](#)**: A rich text editor component for flutter and React applications. It offers a wide range of features and customization options to enhance the user experience. Currently in the final stages of development. Soon to be released as an open-source package!
-
 ### 🔥 Why Support Me?
 Maintaining and developing open-source projects requires a significant investment of time and resources. By supporting me through GitHub Sponsors, you’re helping to ensure that I can continue dedicating time to creating and maintaining these valuable tools. Your support allows me to:
 - Keep my projects well-maintained and up-to-date.
