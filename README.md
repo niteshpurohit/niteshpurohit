@@ -1,33 +1,37 @@
 # 👋 Hi there, I'm Nitesh!
 
 ### 🚀 About Me
-I'm a seasoned software engineer with over 12 years of experience in building and optimizing Ruby on Rails applications. My journey in the tech world has been both exciting and rewarding, leading me to become a passionate advocate for open-source software. I firmly believe in the power of community-driven development and the impact it can have on the broader tech ecosystem.
+I’m a principal-level software engineer, tech lead, and former founder with 14+ years of experience building distributed systems and scaling SaaS platforms. My work spans backend architecture, platform engineering, infrastructure modernization, and engineering leadership.
 
-Throughout my career, I’ve worn many hats—from being an individual contributor to leading teams and projects. I’ve built applications from the ground up, debugged complex issues, and significantly improved performance across the stack. My expertise spans a wide range of domains, including web development, cloud deployment, and system architecture.
+I’ve led cross-functional initiatives, designed high-availability systems, and helped teams ship reliably through stronger architecture, better delivery practices, and hands-on mentoring. I’m especially interested in pragmatic systems design, maintainable developer platforms, and open-source tools that solve real operational problems for real engineers.
 
-### 🌟 My Philosophy
-Open-source software has played a pivotal role in my growth as a developer, and I’m dedicated to giving back to the community that has supported me. I strive to create and maintain high-quality libraries and tools that make developers' lives easier. My work is driven by the belief that sharing knowledge and resources freely can lead to better, more innovative solutions for everyone.
+### 🌟 What I Focus On
+I like working at the intersection of software architecture, delivery velocity, and long-term reliability. That usually means simplifying complex systems, improving deployment safety, standardizing engineering patterns, and helping teams make better technical decisions as they grow.
+
+I enjoy the kind of engineering work where the outcome is not just "it works," but "it stays understandable six months later." Clean abstractions, boring deployments, sharp debugging loops, and reusable tools for the next person are my idea of a good time.
 
 ### 🛠️ Technologies & Skills
-- **Languages**: Ruby, JavaScript, HTML/CSS, SQL
-- **Frameworks**: Ruby on Rails, React, Angular
-- **Databases**: PostgreSQL, MySQL, SQLite
-- **Cloud Platforms**: AWS, Heroku, Google Cloud
-- **DevOps**: Docker, Kubernetes, CI/CD
-- **Tools**: Git, GitHub, Redis, Sidekiq, Elasticsearch
-- **Other**: Agile Methodologies, Test-Driven Development (TDD), Performance Optimization
+- **Languages**: Ruby, Go, Node.js, JavaScript, TypeScript, PHP, C++
+- **Frameworks**: Ruby on Rails, React, GraphQL, Express.js, Angular
+- **Architecture**: Distributed systems, microservices, modular platforms, high-availability systems
+- **Cloud & Infra**: AWS, Terraform, Docker, Kubernetes, Heroku, GitOps, CI/CD
+- **Data**: PostgreSQL, MySQL, MongoDB
+- **Specialized Areas**: Developer platforms, infrastructure automation, mobile apps, Web3 systems
 
-### 🎯 My Mission
-I’m on a mission to build open-source software that empowers developers and teams to create faster, more efficient, and more reliable applications. My projects are designed to address real-world problems, and I’m constantly exploring new ways to innovate and improve.
+### 🎯 Mission
+I build software and tooling that make engineering teams faster, calmer, and more effective. That includes open-source work, platform improvements, and product systems designed for scale, resilience, and clear ownership.
 
-### 🔥 Why Support Me?
-Maintaining and developing open-source projects requires a significant investment of time and resources. By supporting me through GitHub Sponsors, you’re helping to ensure that I can continue dedicating time to creating and maintaining these valuable tools. Your support allows me to:
-- Keep my projects well-maintained and up-to-date.
-- Develop new features and improvements based on community feedback.
-- Write in-depth documentation and tutorials to help others get started.
-- Contribute to the broader open-source ecosystem by mentoring and collaborating with other developers.
+I care a lot about giving back to the ecosystem that helped me grow. If I can turn a hard-won lesson, rough edge, or repeated bug into something reusable for other developers, that usually feels like time well spent.
 
-Every contribution, no matter the size, makes a meaningful difference. If you find my work helpful, please consider supporting me. Your sponsorship will help sustain my open-source efforts and allow me to keep sharing my knowledge with the community.
+### ⚡ Currently Into
+- Designing systems that are easier to operate than to explain
+- Turning recurring engineering pain into reusable tools, docs, and patterns
+- Making Rails applications feel boring in production for the right reasons
+- Keeping architecture practical, not theatrical
+- Building things that a future maintainer will not quietly resent
+
+### 🔥 Support My Work
+If my open-source work is useful to you, GitHub Sponsors helps me keep maintaining projects, shipping improvements, and documenting practical solutions for other engineers.
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/niteshpurohit)
 
@@ -36,11 +40,24 @@ Every contribution, no matter the size, makes a meaningful difference. If you fi
 ![Top Languages](https://github-stats.niteshpurohit.com/api/top-langs/?username=niteshpurohit&layout=compact&theme=radical&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true)
 
 
-### 🎉 Fun Facts
-- I’ve been a Ruby on Rails enthusiast since version 3.2, and I’ve never looked back!
-- When I’m not coding, you’ll find me exploring the outdoors or experimenting with new recipes in the kitchen.
-- I’m always up for a good tech debate—let’s discuss the future of web development!
+### 🎉 Highlights
+- 14+ years across engineering leadership, hands-on architecture, and product delivery
+- Experience spanning SaaS platforms, infrastructure modernization, and scalable backend systems
+- Strong focus on mentoring, platform quality, and sustainable engineering practices
+
+### ☕ Fun Bits
+- I like systems with fewer surprises, smaller diffs, and commit messages that age well
+- I have a soft spot for well-factored Ruby code and unglamorous reliability work
+- I enjoy debugging performance issues almost as much as preventing them
+- If there’s a messy legacy workflow in the room, I’ll probably try to simplify it
+- I think good open source is part code, part empathy, part stubborn maintenance
+
+### 🤝 Community Energy
+- I like building in public, sharing patterns, and leaving behind useful abstractions
+- I care about documentation because great code is only half the job
+- Mentoring, reviewing, and unblocking other engineers is work I genuinely enjoy
+- Open source has shaped how I build software, and I try to return that value whenever I can
 
 ---
 
-Thanks for taking the time to visit my profile! I’m always open to collaboration, feedback, and new ideas. Let’s build something amazing together! 😊
+Thanks for visiting my profile. If you care about open source, scalable systems, pragmatic architecture, and shipping software without unnecessary drama, we’ll probably get along.
